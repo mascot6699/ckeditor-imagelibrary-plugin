@@ -1,0 +1,11 @@
+*~
+*.py[cod]
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
+*~
+*.swp
+*.swo
